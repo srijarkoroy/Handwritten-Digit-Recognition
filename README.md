@@ -5,10 +5,7 @@ Here's a web-based application built to allow an user to upload an image of a ha
 # Steps for using the Web App
 - Setting up the Python Environment with the dependencies:
 
-        pip install tensorflow
-        pip install keras
-        pip install streamlit
-        pip install streamlit-drawable-canvas==0.1.1
+        pip install -r Requirements.txt
 
 - Cloning the Repository: 
 
